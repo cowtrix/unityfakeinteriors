@@ -10,7 +10,7 @@ It can handle lighting to an extent:
 
 And it's not too bad on performance. We only have 2 cubemap samples and some maths.
 
-<img width="1531" height="1276" alt="image" src="https://github.com/user-attachments/assets/d081813f-a37c-4a9a-86b0-687af48048d3" />
+<img width="1501" height="979" alt="image" src="https://github.com/user-attachments/assets/c18c8ecf-6b61-4586-8cf7-17f6dd809675" />
 
 Simply author a cubemap texture like below:
 
